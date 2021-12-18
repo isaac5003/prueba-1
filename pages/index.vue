@@ -1,13 +1,11 @@
 <template>
   <div class="bg-slate-800 min-h-screen">
-    <nav class="w-full p-4 bg-slate-800/20 sticky top-0 backdrop-blur">
+    <nav class="w-full h-16 p-4 bg-slate-800/20 sticky top-0 backdrop-blur">
       <div class="flex items-center justify-between">
         <div>
           <img
-            style="width: 100px; height: 50px"
+            style="width: 90px; height: 40px"
             src="../assets/images/group2.svg"
-            alt=""
-            class=""
           />
         </div>
 
@@ -31,19 +29,19 @@
     </nav>
 
     <div class="container mx-auto p-4">
-      <div class="bg-red-400 h-20"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
-      <div class="bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
+      <div class="rounded-sm bg-red-400 h-20 mt-4"></div>
     </div>
   </div>
 </template>
